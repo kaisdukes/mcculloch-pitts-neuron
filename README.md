@@ -4,6 +4,8 @@
 
 *This repository contains Python source code accompanying the article [McCulloch-Pitts: The First Computational Neuron](https://www.linkedin.com/pulse/mcculloch-pitts-first-computational-neuron-dr-kais-dukes). Published on LinkedIn on June 25, 2023.*
 
+![](https://github.com/kaisdukes/mcculloch-pitts-neuron/blob/main/neuron.webp)
+
 ## Why am I writing this?
 
 This year marks the 80th anniversary of the McCulloch-Pitts neuron. Because I’m passionate about the history of AI, I felt compelled to write about McCulloch-Pitts after reading a lot of misinformation online. New learners interested in the history of the field aren't being helped by an influx of low-quality, SEO-optimized articles appearing amongst the top Google results. There seems to be confusion around the specific contributions of the McCulloch-Pitts neuron (the threshold logic unit), and the Rosenblatt neuron (the perceptron). It’s also not clear whether McCulloch-Pitts is also a perceptron, and if it should be considered a weighted model.
