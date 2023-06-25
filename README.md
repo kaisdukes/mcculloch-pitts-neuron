@@ -82,7 +82,7 @@ Despite today's advances in AI and neural networks making this seem unbelievable
 
 It's astonishing that Minsky's critique focused solely on the limitations of a single neuron. Minsky and Papert were not ignorant of the potential of multilayer networks; their book actually includes a chapter acknowledging that multilayer perceptrons could in theory overcome the limitations they highlighted. However, they argued that there was no known efficient way to train such networks, a problem that was not resolved until the rediscovery of backpropagation in the mid-1980s.
 
-Although there doesn’t appear to be a historical consensus on why this misunderstanding occurred, it was definitely known to some in the AI community at the time that networks of neurons could approximate arbitrary functions. Rosenblatt published results to this effect in 1961. However, soon after Minsky's book was published, he sadly died in a sailing accident on his 43rd birthday in 1971.
+Although there doesn’t appear to be a historical consensus on why this misunderstanding occurred, it was definitely known to some in the AI community at the time that networks of neurons could approximate arbitrary functions. Rosenblatt published results to this effect in 1961. However, soon after Minsky's book was published, Rosenblatt sadly died in a sailing accident on his 43rd birthday in 1971.
 
 These historical circumstances, driven by unfortunate events and misunderstandings, profoundly influenced the pace and direction of AI development. However, as we continue to stand on the shoulders of giants like McCulloch, Pitts, Rosenblatt, and Turing, it's incredibly exciting to imagine the breakthroughs the next 80 years will bring.
 
