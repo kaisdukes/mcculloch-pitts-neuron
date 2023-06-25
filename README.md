@@ -85,3 +85,32 @@ It's astonishing that Minsky's critique focused solely on the limitations of a s
 Although there doesn’t appear to be a historical consensus on why this misunderstanding occurred, it was definitely known to some in the AI community at the time that networks of neurons could approximate arbitrary functions. Rosenblatt published results to this effect in 1961. However, soon after Minsky's book was published, he sadly died in a sailing accident on his 43rd birthday in 1971.
 
 These historical circumstances, driven by unfortunate events and misunderstandings, profoundly influenced the pace and direction of AI development. However, as we continue to stand on the shoulders of giants like McCulloch, Pitts, Rosenblatt, and Turing, it's incredibly exciting to imagine the breakthroughs the next 80 years will bring.
+
+# Getting Started
+
+This project uses [Poetry](https://python-poetry.org).
+
+First, clone the repository:
+
+```
+git clone https://github.com/kaisdukes/mcculloch-pitts-neuron.git
+cd mcculloch-pitts-neuron
+```
+
+Install Poetry using [Homebrew](https://brew.sh):
+
+```
+brew install poetry
+```
+
+Use the Poetry shell:
+
+```
+poetry shell
+```
+
+Test the neuron:
+
+```
+python tests/neuron_test.py
+```
