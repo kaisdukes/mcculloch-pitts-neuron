@@ -2,6 +2,7 @@
 name = "mcculloch-pitts-neuron"
 version = "0.1.0"
 description = ""
+authors = ["Kais Dukes"]
 readme = "README.md"
 packages = [{include = "src"}]
 

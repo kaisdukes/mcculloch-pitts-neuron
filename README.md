@@ -103,12 +103,17 @@ Install Poetry using [Homebrew](https://brew.sh):
 brew install poetry
 ```
 
+Next, set up the virtual environment:
+
+```
+poetry install
+```
+
 Use the Poetry shell:
 
 ```
 poetry shell
 ```
-
 Test the neuron:
 
 ```
