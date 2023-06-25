@@ -35,7 +35,7 @@ Before getting into the math, let’s first talk a little bit about biological n
 
 If you decide to pick something up, neurons in your brain send that signal all the way to the motor neurons in your hand through chains of neurons such as in your spine. This works both ways. If you place your hand over a fire, the sensory neurons in your hand will send a signal back to your brain, which will quickly decide to move your hand away.
 
-Biological neurons, though complex and not yet fully understood, can be thought of at a high level in terms of axons, dendrites, and synapses A simplified view of this is that the axon is the nerve fiber cable that carries the electric signal out of a neuron. This is called the neuron 'firing’. Although almost all neurons have only one axon, the axon can branch out into thousands of nerve endings to make contact with other neurons.
+Biological neurons, though complex and not yet fully understood, can be thought of at a high level in terms of axons, dendrites, and synapses. A simplified view of this is that the axon is the nerve fiber cable that carries the electric signal out of a neuron. This is called the neuron 'firing’. Although almost all neurons have only one axon, the axon can branch out into thousands of nerve endings to make contact with other neurons.
 
 Dendrites are the receiving side of this. A typical neuron would have one axon to send out its signal, and multiple dendrites to receive inputs. Synapses are where the axon of one neuron interfaces with the dendrite of another neuron. Axons and dendrites don’t actually touch. Chemicals called neurotransmitters send signals across the synapse. Communication goes from electrical, to chemical, and then back to electrical.
 
