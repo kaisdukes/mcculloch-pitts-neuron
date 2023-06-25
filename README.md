@@ -114,7 +114,8 @@ Use the Poetry shell:
 ```
 poetry shell
 ```
-Test the neuron:
+
+Test the McCulloch-Pitts neuron:
 
 ```
 python tests/neuron_test.py
